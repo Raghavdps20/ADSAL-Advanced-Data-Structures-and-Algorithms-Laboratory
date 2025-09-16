@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1758030100 source:c:\users\raghav sharma\documents\codeblocks saved files location\projects\l2q10a_string_palindrome\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
